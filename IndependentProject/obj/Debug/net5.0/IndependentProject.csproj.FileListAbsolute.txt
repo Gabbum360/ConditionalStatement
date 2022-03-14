@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\bin\Debug\net5.0\IndependentProject.exe
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\bin\Debug\net5.0\IndependentProject.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\bin\Debug\net5.0\IndependentProject.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\bin\Debug\net5.0\IndependentProject.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\bin\Debug\net5.0\IndependentProject.dll
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\bin\Debug\net5.0\ref\IndependentProject.dll
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\bin\Debug\net5.0\IndependentProject.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\IndependentProject.csproj.AssemblyReference.cache
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\IndependentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\IndependentProject.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\IndependentProject.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\IndependentProject.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\IndependentProject.dll
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\ref\IndependentProject.dll
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\IndependentProject.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\IndependentProject\obj\Debug\net5.0\IndependentProject.genruntimeconfig.cache

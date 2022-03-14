@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\bin\Debug\net5.0\GabbumCar.exe
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\bin\Debug\net5.0\GabbumCar.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\bin\Debug\net5.0\GabbumCar.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\bin\Debug\net5.0\GabbumCar.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\bin\Debug\net5.0\GabbumCar.dll
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\bin\Debug\net5.0\ref\GabbumCar.dll
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\bin\Debug\net5.0\GabbumCar.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\GabbumCar.csproj.AssemblyReference.cache
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\GabbumCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\GabbumCar.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\GabbumCar.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\GabbumCar.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\GabbumCar.dll
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\ref\GabbumCar.dll
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\GabbumCar.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\GabbumCar\obj\Debug\net5.0\GabbumCar.genruntimeconfig.cache

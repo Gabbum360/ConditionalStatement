@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\bin\Debug\net5.0\Learning_Classes_methods.exe
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\bin\Debug\net5.0\Learning_Classes_methods.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\bin\Debug\net5.0\Learning_Classes_methods.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\bin\Debug\net5.0\Learning_Classes_methods.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\bin\Debug\net5.0\Learning_Classes_methods.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\bin\Debug\net5.0\ref\Learning_Classes_methods.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\bin\Debug\net5.0\Learning_Classes_methods.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\Learning_Classes_methods.csproj.AssemblyReference.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\Learning_Classes_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\Learning_Classes_methods.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\Learning_Classes_methods.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\Learning_Classes_methods.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\Learning_Classes_methods.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\ref\Learning_Classes_methods.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\Learning_Classes_methods.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\Learning_Classes_methods\obj\Debug\net5.0\Learning_Classes_methods.genruntimeconfig.cache

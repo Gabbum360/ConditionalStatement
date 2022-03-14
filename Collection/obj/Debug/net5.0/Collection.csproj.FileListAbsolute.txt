@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\bin\Debug\net5.0\Collection.exe
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\bin\Debug\net5.0\Collection.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\bin\Debug\net5.0\Collection.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\bin\Debug\net5.0\Collection.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\bin\Debug\net5.0\Collection.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\bin\Debug\net5.0\ref\Collection.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\bin\Debug\net5.0\Collection.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\Collection.csproj.AssemblyReference.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\Collection.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\Collection.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\Collection.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\ref\Collection.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\Collection.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\Collection\obj\Debug\net5.0\Collection.genruntimeconfig.cache

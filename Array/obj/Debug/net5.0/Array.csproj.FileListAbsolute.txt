@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\Array\bin\Debug\net5.0\Array.exe
+C:\Users\SUA\source\repos\ConditionalStatements\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\Array\bin\Debug\net5.0\Array.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\Array.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
+C:\Users\SUA\source\repos\ConditionalStatements\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache

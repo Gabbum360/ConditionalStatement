@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\bin\Debug\net5.0\StudentManagementSystem.exe
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\bin\Debug\net5.0\StudentManagementSystem.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\bin\Debug\net5.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\bin\Debug\net5.0\StudentManagementSystem.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\bin\Debug\net5.0\StudentManagementSystem.dll
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\bin\Debug\net5.0\ref\StudentManagementSystem.dll
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\bin\Debug\net5.0\StudentManagementSystem.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\StudentManagementSystem.dll
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\ref\StudentManagementSystem.dll
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\StudentManagementSystem.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\StudentManagementSystem\obj\Debug\net5.0\StudentManagementSystem.genruntimeconfig.cache

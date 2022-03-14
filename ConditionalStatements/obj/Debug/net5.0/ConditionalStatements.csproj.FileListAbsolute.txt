@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.dll
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ref\ConditionalStatements.dll
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.exe
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.dll
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net5.0\ref\ConditionalStatements.dll
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.genruntimeconfig.cache

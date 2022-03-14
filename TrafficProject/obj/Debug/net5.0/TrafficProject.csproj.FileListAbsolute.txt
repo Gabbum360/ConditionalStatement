@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\TrafficProject.csproj.AssemblyReference.cache
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\TrafficProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\TrafficProject.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\TrafficProject.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\TrafficProject.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\bin\Debug\net5.0\TrafficProject.exe
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\bin\Debug\net5.0\TrafficProject.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\bin\Debug\net5.0\TrafficProject.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\bin\Debug\net5.0\TrafficProject.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\bin\Debug\net5.0\TrafficProject.dll
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\bin\Debug\net5.0\ref\TrafficProject.dll
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\bin\Debug\net5.0\TrafficProject.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\TrafficProject.dll
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\ref\TrafficProject.dll
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\TrafficProject.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\TrafficProject\obj\Debug\net5.0\TrafficProject.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\FoundationaTest.csproj.AssemblyReference.cache
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\FoundationaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\FoundationaTest.AssemblyInfoInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\FoundationaTest.AssemblyInfo.cs
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\FoundationaTest.csproj.CoreCompileInputs.cache
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\bin\Debug\net5.0\FoundationaTest.exe
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\bin\Debug\net5.0\FoundationaTest.deps.json
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\bin\Debug\net5.0\FoundationaTest.runtimeconfig.json
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\bin\Debug\net5.0\FoundationaTest.runtimeconfig.dev.json
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\bin\Debug\net5.0\FoundationaTest.dll
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\bin\Debug\net5.0\ref\FoundationaTest.dll
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\bin\Debug\net5.0\FoundationaTest.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\FoundationaTest.dll
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\ref\FoundationaTest.dll
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\FoundationaTest.pdb
+C:\Users\SUA\source\repos\ConditionalStatements\FoundationaTest\obj\Debug\net5.0\FoundationaTest.genruntimeconfig.cache
