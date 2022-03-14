@@ -27,7 +27,7 @@ namespace Collection
             //{
             //    Console.WriteLine(Student.Length);
             //}
-           // Console.WriteLine(Student.Length);
+            // Console.WriteLine(Student.Length);
             //int[] numbers = new int[4] { 70, 50, 1, 5 };
             //numbers[0] = 5;
             //numbers[1] = 2;
@@ -44,6 +44,8 @@ namespace Collection
 
             //int index1 = Array.IndexOf(numbers, 3, 4);
             //    Console.WriteLine(index1);
+            string name = "Gabriel";
+            Console.WriteLine(name);
 
             Student pupils=new Student();
             pupils.Getstudent();
